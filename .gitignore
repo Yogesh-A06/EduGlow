@@ -9,7 +9,6 @@ __pycache__/
 frontend/node_modules/
 
 # React build output
-frontend/build/
+
 
 # Environment variables file
-frontend/.env
